@@ -14,9 +14,9 @@
  
  🌱 I’m currently learning **LLMs, Data Engineer and MERN Stack**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Computer Vision, NLP, GenAI, kaggle... or anything [here](https://github.com/Shashank1202?tab=repositories)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **AI's attempt at a recipe included 'binary soup' proving it has a knack for coding cuisine and a unique sense of humor.**
 
  </div>
  
