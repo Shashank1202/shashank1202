@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shashank+S!;" />
 </h1>
 
-<h3 align="center">A passionate AI Engineer from Bengaluru </h3>
+<h3 align="center">A passionate AI Engineer from Bengaluru, Karnataka, India </h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **Generative AI**
  
- 🌱 I’m currently learning **LLMs, Data Engineer and MERN Stack**
+ 🌱 I’m currently learning **GenAI, Data Engineer and MERN Stack**
 
-💬 Ask me about **Computer Vision, NLP, GenAI, kaggle... or anything [here](https://github.com/Shashank1202?tab=repositories)**
+💬 Ask me about **Computer Vision, NLP, GenAI, GANs... or anything [here](https://www.linkedin.com/in/shashz/)**
 
 ⚡ Fun fact **AI's attempt at a recipe included 'binary soup' proving it has a knack for coding cuisine and a unique sense of humor.**
 
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,mysql,flask,PyTorch" /><br>
 </div>
 
 <br/>
