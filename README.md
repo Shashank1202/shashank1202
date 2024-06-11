@@ -31,7 +31,7 @@
      <img src="https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <a href="https://leetcode.com/u/Shashank_120302/" target="_blank">
-     <img src="https://img.shields.io/badge/leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
