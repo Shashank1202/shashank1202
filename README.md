@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Generative AI**
+ 🔭 I’m currently working as **Data Engineer Intern**
  
  🌱 I’m currently learning **GenAI, Data Engineer and MERN Stack**
 
 💬 Ask me about **Computer Vision, NLP, GenAI, GANs... or anything [here](https://www.linkedin.com/in/shashz/)**
 
-⚡ Fun fact **AI's attempt at a recipe included 'binary soup' proving it has a knack for coding cuisine and a unique sense of humor.**
+⚡ **It Is What It Is**
 
  </div>
  
@@ -30,6 +30,9 @@
   <a href="https://www.kaggle.com/shashanks1202" target="_blank">
      <img src="https://img.shields.io/badge/kaggle-0077B5?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <a href="https://leetcode.com/u/Shashank_120302/" target="_blank">
+     <img src="https://img.shields.io/badge/leetcode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
 
  <hr/>
@@ -37,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,r,Tensorflow,keras" />
     <img src="https://skillicons.dev/icons?i=python,javascript,mongodb,c,java,mysql,flask,PyTorch" /><br>
 </div>
 
