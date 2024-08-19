@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently learning **GenAI and LLMOps**
   
-- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1XEn7raBAWM2g0IJWZf4IK7RkPljSTnGW/view?usp=sharing)
+- 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1_c5LAP6CR5NEwGJjgy80DG2yOmo5v555/view?usp=drive_link)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Shashank1202)
 
